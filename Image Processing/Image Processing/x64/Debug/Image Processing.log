@@ -1,0 +1,7 @@
+﻿  Image Processing.cpp
+C:\Users\USER\myproject\Image Processing\Image Processing\Image Processing.cpp(196,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\myproject\Image Processing\Image Processing\Image Processing.cpp(201,53): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\USER\myproject\Image Processing\Image Processing\Image Processing.cpp(377,49): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\USER\myproject\Image Processing\Image Processing\Image Processing.cpp(407,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\myproject\Image Processing\Image Processing\Image Processing.cpp(418,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Image Processing.vcxproj -> C:\Users\USER\myproject\Image Processing\x64\Debug\Image Processing.exe
